@@ -1,7 +1,7 @@
-#WeatherStation-ESP32
+# WeatherStation-ESP32
 ![DEVELOPMENT BOARD](./board.jpg)
 
-##1. PROJECT'S PARTS
+## 1. PROJECT'S PARTS
 - ESP32 DEV BOARD (https://www.aliexpress.com/item/ESP32-Development-Board-ESP-32-ESP-32S-WiFi-Bluetooth-Dual-Cores-CPU-MCU-Board-IOT-For/32847642995.html?spm=a2g0s.9042311.0.0.7b314c4dHgLBeA)
 - AIR QUALITY SENSOR (https://www.aliexpress.com/item/MQ-135-Air-quality-and-hazardous-gas-detection-sensor-alarm-module-MQ135-module-B31/32849633189.html?spm=a2g0s.9042311.0.0.48e54c4dTJr0zj)
 - LED RGB DIODE (https://www.aliexpress.com/item/1pcs-RGB-LED-Breakout-Module-RGB-LED-Module-For-RGB-module/32840369338.html?spm=a2g0s.9042311.0.0.48e54c4dTJr0zj) 
@@ -17,7 +17,7 @@
 - LIGHT SENSOR (https://www.aliexpress.com/item/Smart-Electronics-TEMT6000-An-ambient-light-sensor-Simulate-the-light-intensity-module-Visible-light-sensor/32642759281.html?spm=a2g0s.9042311.0.0.48e54c4dTJr0zj)
 - BUZZER (https://www.aliexpress.com/item/low-level-Active-Buzzer-Module-for-Arduino-New-DIY-Kit-Active-buzzer-low-level-modules/32806004186.html?spm=a2g0s.9042311.0.0.48e54c4dTJr0zj)
 
-##2. NEXT STEPS OF PROJECT
+## 2. NEXT STEPS OF PROJECT
 - IMPLEMENTATION OF RAIN SENSOR
 - IMPLEMENTATION OF LIGHT SENSOR
 - IMPLEMENTATION REAL TIME CLOCK
